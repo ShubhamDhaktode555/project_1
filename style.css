@@ -1,0 +1,89 @@
+.box{
+box-sizing: border-box;
+position: absolute;
+width: 1643px;
+height: 648.57px;
+left: 38px;
+top: 47px;
+border: 2px solid #000000;
+padding: 20px;
+color: #000000;
+}
+h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    text-decoration-line: underline;
+}
+p{
+font-family: 'Inter';
+font-style: normal;
+font-size: 32px;
+}
+a{
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 32px;
+}
+.img{
+position: absolute;
+width: 962px;
+height: 77px;
+left: 58px;
+top: 742px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+text-decoration-line: underline;
+color: #000000;
+}
+.img1{
+position: absolute;
+width: 1051px;
+height: 768px;
+left: 58px;
+top: 900px;
+}
+.link{
+position: absolute;
+width: 245px;
+height: 48px;
+left: 58px;
+top: 1670px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+text-decoration-line: underline;
+color: #000000;
+}
+.head{
+    position: absolute;
+    width: 1623px;
+    height: 469px;
+    left: 58px;
+    top: 1795px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    text-decoration-line: underline;
+    color: #000000;
+}
+ol{
+    position: absolute;
+    width: 1623px;
+    height: 469px;
+    left: 58px;
+    top: 1920px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 32px;
+    line-height: 77px; 
+}
